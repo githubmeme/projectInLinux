@@ -16,4 +16,5 @@ int div(int a,int b) {
  int xxxxx() {
 	 return -1;
  }
+	int test(){}
 }
