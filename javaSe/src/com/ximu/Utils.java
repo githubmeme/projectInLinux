@@ -1,3 +1,5 @@
+
+
 package com.ximu;
 
 public class Utils {
@@ -6,4 +8,6 @@ public class Utils {
 		
 		return a + b;
 	}
+	
+	int test(){}
 }
