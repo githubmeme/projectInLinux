@@ -6,5 +6,8 @@ public class Main {
 		
 		System.out.println("init this project!");
 	}
-
+	public static int tt() {
+		
+		return 0;
+	}
 }
