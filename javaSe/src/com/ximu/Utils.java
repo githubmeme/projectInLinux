@@ -1,5 +1,6 @@
 
 
+
 package com.ximu;
 
 public class Utils {
@@ -13,4 +14,5 @@ int div(int a,int b) {
 		
 		return a/b;
 	}
+	int test(){}
 }
