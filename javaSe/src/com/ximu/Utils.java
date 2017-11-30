@@ -9,5 +9,8 @@ public class Utils {
 		return a + b;
 	}
 	
-	int test(){}
+int div(int a,int b) {
+		
+		return a/b;
+	}
 }
